@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/csec15/ai-skills/main/AGENTS.md
+https://raw.githubusercontent.com/csec15/ai-skills/main/skills/web-ctf/SKILL.md
+https://raw.githubusercontent.com/csec15/ai-skills/main/skills/misc-stego/SKILL.md
+https://raw.githubusercontent.com/csec15/ai-skills/main/skills/crypto-ctf/SKILL.md
+https://raw.githubusercontent.com/csec15/ai-skills/main/skills/pwn-rev-lite/SKILL.md
